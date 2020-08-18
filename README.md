@@ -37,7 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Gauraviitkgp"><img src="https://avatars3.githubusercontent.com/u/23613158?v=4" width="100px;" alt=""/><br /><sub><b>Gaurav Suryawanshi</b></sub></a><br /><a href="#translation-Gauraviitkgp" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/llubosz"><img src="https://avatars2.githubusercontent.com/u/2283771?v=4" width="100px;" alt=""/><br /><sub><b>Łukasz Lubosz</b></sub></a><br /><a href="#translation-llubosz" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/hershkoy"><img src="https://avatars3.githubusercontent.com/u/13259380?v=4" width="100px;" alt=""/><br /><sub><b>hershkoy</b></sub></a><br /><a href="#ideas-hershkoy" title="Ideas, Planning, & Feedback">🤔</a> <a href="#example-hershkoy" title="Examples">💡</a></td>
-   <td align="center"><a href="https://github.com/BojanMakivic"><img src="https://avatars2.githubusercontent.com/u/59933743?s=4" width="100px;" alt=""/><br /><sub><b>Bojan Makivic</b></sub></a><br /><a href="#translation-Makivic" title="Translation">🌍</a></td>
+   <td align="center"><a href="https://github.com/BojanMakivic"><img src="https://avatars2.githubusercontent.com/u/59933743?s=460&u=efcc983afb4f316c584503a4cfedba570fa437d2&v=4" width="100px;" alt=""/><br /><sub><b>Bojan Makivic</b></sub></a><br /><a href="#translation-Makivic" title="Translation">🌍</a></td>
   </tr>
 </table>
 
